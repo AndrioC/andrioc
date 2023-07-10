@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor fullstack
 - 🌱 Estudando um pouco mais sobre front-end
-- 😄 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/andrioc">
