@@ -1,7 +1,7 @@
-### Olá! Eu sou o Andrio Corrêa 👋🏾
+### Hello! I'm Andrio Corrêa 👋🏾
 
 
-- 🔭 Atualmente trabalho como desenvolvedor fullstack
+- 🔭 Currently, I work as a fullstack developer.
 
  <div>
   <a href="https://github.com/andrioc">
