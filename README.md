@@ -2,7 +2,6 @@
 
 
 - 🔭 Atualmente trabalho como desenvolvedor fullstack
-- 🌱 Estudando um pouco mais sobre front-end
 
  <div>
   <a href="https://github.com/andrioc">
